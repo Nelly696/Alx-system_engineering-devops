@@ -1,1 +1,1 @@
-my readme file for project 0x00-shell_basics
+my readme file for project 0x00-shell_basics is completes
