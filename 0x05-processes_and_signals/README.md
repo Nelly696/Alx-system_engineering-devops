@@ -1,1 +1,1 @@
-0x05-processes_and_signals prroject
+0x05-processes_and_signals prroject project
